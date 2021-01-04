@@ -24,17 +24,19 @@
 <div>
   <h2 align="left">Skills</h2>
       <dl align="left">
-        <dd><strong><i>HTML, CSS e Javascript</i></strong></dd>
-        <dd><strong><i>Framework CSS :</i></strong> Materialize and Bootstrap</dd>
-         <dd><strong><i>Javascript Libraries :</i></strong> jQuery and React.js</dd>
+        <dd><strong><i>Front End :</i></strong> HTML, CSS, SASS and Javascript</dd>
+        <dd><strong><i>Back End :</i></strong> PHP and Laravel</dd>
+        <dd><strong><i>Framework CSS :</i></strong> Materialize and Bootstrap 4</dd>
+        <dd><strong><i>Javascript Libraries :</i></strong> jQuery and React.js</dd>
         <dd><strong><i>Headless CMS :</i></strong> Strapi</dd>
         <dd><strong><i>Wordpress</i></strong></dd>
+        <dd><strong><i>Git</i></strong></dd>
       </dl> 
 
   <h2 align="right">I’m currently learning ...</h2>
     <dl align="right">
-     <dd><strong><i>React.js and Redux</i></strong></dd>
-     <dd><strong><i>Node.js</i></strong></dd>
+     <dd><strong><i>Vanilla Javascript to improve its use</i></strong></dd>
+     <dd><strong><i>Laravel with more projects</i></strong></dd>
     </dl>
 </div>
 
