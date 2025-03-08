@@ -1,4 +1,7 @@
-<h4 align="center"><i>Welcome to my GitHub! I'm Carmen, a Full Stack Developer.</i></h4>
+<h4 align="center">
+ <i>Welcome to my GitHub!<br></i> 
+ <i>I'm Carmen, a dual tech soul: Quality Tester by profession and a frontend developer by passion.</i><br>
+ <i>An explosive mix for successful digital products.</i></h4>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/carmenagnesesantoro" target="blank">
